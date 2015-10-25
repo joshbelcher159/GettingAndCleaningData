@@ -1,0 +1,5 @@
+SubjectId: The ids in the subject_train.txt and subject_test.txt text files from the UCI HAR dataset.
+
+ActivityLabel: Activity taken in the y_train.txt and y_test.txt files from the UCI HAR dataset.
+
+Calculations (STD & Mean): the columns are a combined form of the original combined columns and the calculated standard deviation and means.
